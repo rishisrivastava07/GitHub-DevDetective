@@ -1,5 +1,3 @@
----
-
 ### **GitHub - DevDetective**
 **Project Overview**:  
 GitHub - DevDetective is a web application that allows users to search for GitHub profiles using a GitHub username. By leveraging the GitHub API, the app fetches key information about the developer and displays it in a user-friendly manner. The search results are presented as visually appealing cards, offering an organized and aesthetic layout of the user’s profile data. Additionally, the app features both dark and light modes, enhancing the user experience and accessibility.
