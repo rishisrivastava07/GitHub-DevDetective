@@ -53,6 +53,10 @@
 4. **Dark/Light Mode Toggle**  
    Users can toggle between dark and light modes via a switch button. The application updates the CSS classes dynamically to reflect the selected mode.
 
+## **Deployed Link**
+
+You can view the live application [here](https://rishisrivastava07.github.io/GitHub-DevDetective/).
+
 ## **Challenges and Learnings**
 
 - **API Rate Limiting**: Managed GitHub’s API rate limits to ensure a smooth experience, even during multiple searches.
@@ -66,10 +70,10 @@ Contributions are always welcome! If you'd like to improve this project, feel fr
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Make your changes and commit (`git commit -m 'Add some feature'`).
-4. Push to the branch (git push origin feature-branch).
-5. Open a pull request to the GitHub-DevDetective branch.
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request to the **GitHub-DevDetective** branch.
 
-For major changes, please open an issue first to discuss what you would like to change.
+For major changes, please open an issue first to discuss what you'd like to change.
 
 ### **Feedback and Suggestions**
 
