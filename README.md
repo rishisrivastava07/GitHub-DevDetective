@@ -1,5 +1,3 @@
-Here’s a detailed write-up for your project, **GitHub - DevDetective**:
-
 ---
 
 ### **GitHub - DevDetective**
